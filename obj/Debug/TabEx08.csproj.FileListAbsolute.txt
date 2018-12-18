@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\TableListEnum\TabEx08\obj\Debug\TabEx08.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\TableListEnum\TabEx08\obj\Debug\TabEx08.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\TableListEnum\TabEx08\bin\Debug\TabEx08.exe.config
+C:\Users\Dell\source\repos\TableListEnum\TabEx08\bin\Debug\TabEx08.exe
+C:\Users\Dell\source\repos\TableListEnum\TabEx08\bin\Debug\TabEx08.pdb
+C:\Users\Dell\source\repos\TableListEnum\TabEx08\obj\Debug\TabEx08.exe
+C:\Users\Dell\source\repos\TableListEnum\TabEx08\obj\Debug\TabEx08.pdb
