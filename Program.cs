@@ -18,12 +18,7 @@ namespace TabEx08
                 Console.WriteLine(allTheWeek);
             }
 
-            /*week lundi = week.Lundi;
-            Enum.Parse(string lundi) = "1";*/
-            
-
             Console.WriteLine(Environment.NewLine + Enum.GetName(typeof(week), 4));
-
         }
     }
 }
